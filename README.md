@@ -1,15 +1,11 @@
-# <a href="https://digitalkoine.github.io/atlas_nazifascist_repression/">Atlas Nazis and Fascist Repression (thematic map)</a>
+# <a href="https://digitalkoine.github.io/network_milan_arrested/">Network of Jews arrested in Milan and deported during the Second World War </a>
 
-This repository is a research project.
+Visual representation of data on Jews arrested in Milan and deported to Nazi concentration and extermination camps between 1943-1945. This visualisation makes it possible to follow the deportation routes of individuals, from the moment of their arrest to their arrival at the Nazi camps. 
 
-The csv and geojson data are contained in those three websites
+The following participated in the work on data and visualisation
 
-http://www.cdec.it/ <br>
-http://www.straginazifasciste.it/ <br>
-http://www.ultimelettere.it/ <br>
+Laura Brazzo and Patrizia Baldi CDEC (Contemporary Jewish Documentation Centre Foundation)<br>
+Giovanni Pietro Vitali Université de Versailles Saint Quentin en Yvelines - Université Paris-Saclay<br>
+Simone Landucci GIS expert<br>
 
-I would like to thank Igor Pizzirusso and the Istituto Nazionale Ferruccio Parri to share their data on Nazis' and Fascists' massacres.
-
-I would like to thank Laura Brazzo and the Centro di Documentazione Ebraica Contemporanea for their support and data on Jewish Deportation
-
-For details on this thematic map, and discussion, see Giovanni Pietro Vitali, "Visualizing second world war violence through an Atlas of Nazi–Fascist Repression", <i>Digital Scholarship in the Humanities</i>, Volume 37, Issue 2, June 2022, Pages 594–610, https://doi.org/10.1093/llc/fqab070
+For information or requests write to  <a href="mailto:giovannipietrovitali@gmail.com">Giovanni Pietro Vitali</a> or <a href="mailto:laurabrazzo@cdec.it">Laura Brazzo</a>
